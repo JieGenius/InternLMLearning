@@ -35,3 +35,5 @@ pip install pypdf
 
 ## OpenXLab 部署地址
 https://openxlab.org.cn/apps/detail/flyer/eye_knowledge_base_llm
+
+![img_4.png](img_4.png)
