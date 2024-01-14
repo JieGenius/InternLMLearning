@@ -10,5 +10,5 @@
     2. 将训练好后的模型应用部署到 OpenXLab 平台，参考部署文档请访问：https://aicarrier.feishu.cn/docx/MQH6dygcKolG37x0ekcc4oZhnCe
 
 #### 作业结果
-    模型在opemxlab的地址:
-    openxlab部署地址: 
+    模型在opemxlab的地址: https://openxlab.org.cn/models/detail/flyer/personal_assistant
+    openxlab部署地址: https://openxlab.org.cn/apps/detail/flyer/personal_assistant

@@ -35,7 +35,7 @@ xtuner convert merge ./internlm-chat-7b ./hf ./merged --max-shard-size 2GB
 ```
 模型对话
 ```bash
-xtuner chat ./merged --prompt-template internlm_chat
+xtuner chat ./merged --prompt-template internlm_chat --bits 4
 ```
 ### jsonL
 JSONL 文件（JSON Lines），则是一种每行包含一个独立的 JSON 对象的文本文件格式。每行都是一个有效的 JSON 对象，使用换行符分隔。相比于 JSON 文件，JSONL 文件更加轻量，每行为独立的 JSON 对象，没有逗号或其他分隔符。
