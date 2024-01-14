@@ -12,3 +12,5 @@
 #### 作业结果
     模型在opemxlab的地址: https://openxlab.org.cn/models/detail/flyer/personal_assistant
     openxlab部署地址: https://openxlab.org.cn/apps/detail/flyer/personal_assistant
+
+![img_1.png](img_1.png)
